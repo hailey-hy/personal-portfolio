@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/personal-portfolio/static/css/main.0138fade.css",
+    "main.js": "/personal-portfolio/static/js/main.0facd449.js",
+    "static/js/787.fb771931.chunk.js": "/personal-portfolio/static/js/787.fb771931.chunk.js",
+    "static/media/dev-garden.png": "/personal-portfolio/static/media/dev-garden.3d12e03528e96c85d9a9.png",
+    "static/media/color-sharp.png": "/personal-portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/personal-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/personal-portfolio/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/personal-portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/personal-portfolio/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/personal-portfolio/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/personal-portfolio/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/personal-portfolio/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/personal-portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/personal-portfolio/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/react-logo.png": "/personal-portfolio/static/media/react-logo.6a6b22281ce9cf9c2d08.png",
+    "static/media/project-img3.png": "/personal-portfolio/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/frontend.png": "/personal-portfolio/static/media/frontend.fc97f4c72f2d4937b7dd.png",
+    "static/media/bootstrap-logo.png": "/personal-portfolio/static/media/bootstrap-logo.261e334e34cab6b7d62b.png",
+    "static/media/jest-logo.png": "/personal-portfolio/static/media/jest-logo.3d0e045e2bc64f6645d2.png",
+    "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/redux-logo.png": "/personal-portfolio/static/media/redux-logo.10cee0a6afa2bb64ed54.png",
+    "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/personal-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/personal-portfolio/index.html",
+    "main.0138fade.css.map": "/personal-portfolio/static/css/main.0138fade.css.map",
+    "main.0facd449.js.map": "/personal-portfolio/static/js/main.0facd449.js.map",
+    "787.fb771931.chunk.js.map": "/personal-portfolio/static/js/787.fb771931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0138fade.css",
+    "static/js/main.0facd449.js"
+  ]
+}
